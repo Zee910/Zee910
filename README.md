@@ -2,7 +2,7 @@
 
 ---
 
-### 🚀 About Me
+ 🚀 About Me
 
 - 👨‍💻 Android & Web Developer | Crypto & AI Enthusiast  
 - 👀 I’m passionate about building innovative solutions with:
@@ -33,7 +33,7 @@
 
 ---
 
-### 🛠 Tech Stack
+ 🛠 Tech Stack
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zee910&show_icons=true&theme=tokyonight" alt="Zee910's GitHub Stats" />
@@ -56,7 +56,7 @@
 
 ---
 
-### 📌 Pinned Crypto Projects
+ 📌 Pinned Crypto Projects
 
 - 🧠 [SmartFinAssist](https://github.com/Zee910/SmartFinAssist) – AI crypto chatbot with wallet analytics  
 - 📊 Crypto Portfolio Optimizer – Risk-based investment assistant  
