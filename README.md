@@ -6,10 +6,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Zee910&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<br/><br/>
-
 <a href="https://github.com/Zee910">
   <img src="https://img.shields.io/badge/GitHub-Zee910-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
